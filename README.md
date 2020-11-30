@@ -1,2 +1,2 @@
 # web
-Mi super web!
+Web para testear contenido estático
